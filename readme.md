@@ -1,9 +1,13 @@
 # Projeto Site Frontbox
 
-Projeto feito com auxilio do canal no youtube Inkasa Dev. 
+Projeto feito com auxilio do canal no youtube (Inkasa Dev)[]. 
 Nesse projeto em questão foi desenvolvido um site responsivo usando Flexbox.
 
-<h3> Quais tecnologias foram utilizadas: </h3>
+## Quais tecnologias foram utilizadas: 
 
 * HTML5
-* CSS3: Flexbox
+* CSS3 Flexbox
+
+##Link com site hospedado:
+
+* https://leilaobarros.github.io/project-frontbox/
