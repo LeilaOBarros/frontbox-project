@@ -8,6 +8,6 @@ Nesse projeto em questão foi desenvolvido um site responsivo usando Flexbox.
 * HTML5
 * CSS3 Flexbox
 
-##Link com site hospedado:
+## Link com site hospedado:
 
 * https://leilaobarros.github.io/project-frontbox/
