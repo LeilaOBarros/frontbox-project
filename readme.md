@@ -10,4 +10,4 @@ Nesse projeto em questão foi desenvolvido um site responsivo usando Flexbox.
 
 ## Link com site hospedado:
 
-* https://leilaobarros.github.io/project-frontbox/
+* https://leilaobarros.github.io/frontbox-project/
